@@ -1,0 +1,1 @@
+This is a repo of some the data analyst and AI/ML i've done, for proof of concept reasons. I cannot share personal data I've sourced from the applicaitons and websites from my previous employment and personal projects.
